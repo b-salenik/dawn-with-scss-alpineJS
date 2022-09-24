@@ -1,4 +1,5 @@
 import Alpine from 'alpinejs'
+import './css/main.scss';
 
 //stores
 import {mobileMenu} from "@/alpine/store/mobile-menu";
