@@ -2,7 +2,7 @@
 <!-- title / description (start) -->
 <h2 align="center"> Shopify Dawn with SCSS and ALPINE.JS </h2>
 
-This is a customizable modular development environment for blazing-fast Shopify theme creation. By default, it's bundled with Alpine.js and SCSS, but you can swap them for pretty much anything. Build a custom Shopify theme from scratch with a modern stack!
+This is a customizable modular development environment for blazing-fast Shopify theme creation. By default, it's bundled with Alpine.js and SCSS. Build a custom Shopify theme from scratch with a modern stack!
 
 > Disclaimer: This project is not affiliated with Shopify Inc., Tailwind Labs Inc. or alpine.js
 
